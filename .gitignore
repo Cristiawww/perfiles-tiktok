@@ -3,5 +3,4 @@ __pycache__/
 *.pyc
 .streamlit/secrets.toml
 debug/
-datos/*.json
-datos/*.csv
+resultados/
